@@ -1,4 +1,4 @@
-# Object-Oriented Programming (OOP) with R
+# Object-Oriented Programming (OOP) with R Studio
 
 ## Beginner Level Guideline
 
