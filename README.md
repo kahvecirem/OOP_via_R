@@ -1,6 +1,6 @@
 # Object-Oriented Programming (OOP) with R
 
-## Beginner Level
+## Beginner Level Guideline
 
 ### Lesson 1: Introduction to OOP
 
